@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="apicoapi" type="Lua">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/apicoapi.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
